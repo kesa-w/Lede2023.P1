@@ -1,4 +1,5 @@
  # Iceberg, Right Ahead!
+ 
 
 The project found that a passenger's class and sex had an impact on survival rates. The "Iceberg, Right Ahead" project aimed to examine whether sex and a passenger's class on the boat impacted their ability to survive on the ship. According to the data set, the ship had 892 passengers where the average age of female passengers was 28 years old and the average male age was 31. Although age was not a factor the projected considered that would impact survival rates, it was still important to recognize in order to gain a full understanding of the ship's demographic make up.
 
